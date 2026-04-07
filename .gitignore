@@ -1,0 +1,8 @@
+# 忽略上传的文件
+uploads/*
+
+# 忽略文本数据（可选）
+# text_data.json
+
+# 忽略配置文件（可选）
+# config.json

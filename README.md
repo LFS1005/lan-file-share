@@ -21,10 +21,10 @@
 
 点击页面底部的"停止服务"按钮
 
-
 ## 数据目录
 
 运行后会自动创建以下目录：
+
 - `uploads/` - 上传的文件存储目录
 - `text_data.json` - 保存的文本数据
 - `config.json` - 配置文件
@@ -37,3 +37,7 @@
 ## 开源协议
 
 MIT License
+
+---
+
+[English README](README_EN.md)
